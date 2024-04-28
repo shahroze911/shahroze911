@@ -17,9 +17,6 @@
 
 - 📫 How to reach me **sksahotra911@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahroze911" alt="shahroze911" /></a> </p>
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
