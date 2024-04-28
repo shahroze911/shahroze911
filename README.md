@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahroze Kamran Sahotra</h1>
 <h3 align="center">Modern Full Stack Web Developer | App Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahroze911&label=Profile%20views&color=0e75b6&style=flat" alt="shahroze911" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahroze911" alt="shahroze911" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
-- 🔭 Connect with me on Fiverr [Shahroze](https://www.fiverr.com/shahrozesahotra?up_rollout=true)
+- 🔭 Connect with me on Fiverr [Shahroze Kamran Sahotra](https://www.fiverr.com/shahrozesahotra?up_rollout=true)
 
 - 🌱 I’m currently learning **React Native, Kubernetes, DevOps**
 
