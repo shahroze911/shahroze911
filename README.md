@@ -2,9 +2,6 @@
 <h3 align="center">Modern Full Stack Web Developer | App Developer</h3>
 
 
-[<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahroze911&label=Profile%20views&color=0e75b6&style=flat" alt="shahroze911" /> </p>
-](url)
-
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 - 🔭 Connect with me on Fiverr [Shahroze Kamran Sahotra](https://www.fiverr.com/shahrozesahotra?up_rollout=true)
