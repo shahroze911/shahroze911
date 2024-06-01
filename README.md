@@ -8,7 +8,7 @@
 <ul>
   <li>
      <a href="https://linkedin.com/in/shahroze.kamran.sahotra" target="blank" style="margin-bottom: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahroze.kamran.sahotra" height="30" width="40" />
+   
   </a>
   </li>
 </ul>
