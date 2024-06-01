@@ -8,14 +8,11 @@
     sksahotra911@gmail.com
   </a>
   </li>
-  <li>  
   <li> Fiverr: 
      <a href="https://www.fiverr.com/shahrozesahotra?up_rollout=true" target="_blank" style="margin-bottom: 5px;">    
     shahrozesahotra
   </a>
-  </li>
-       
-  </li>
+  </li>  
   <li> LinkedIn:
      <a href="https://www.linkedin.com/in/shahroze-kamran-sahotra/" target="_blank" style="margin-bottom: 5px;">    
     shahroze-kamran-sahotra
