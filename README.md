@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahroze Kamran Sahotra</h1>
-<h3 align="center">Modern Full Stack Web Developer | App Developer</h3>
+<h1 align="left">Hi there, I'm Shahroze Kamran Sahotra</h1>
+<h3 align="left">Modern Full Stack Web Developer | Gen AI | Open AI Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li> Fiverr: 
