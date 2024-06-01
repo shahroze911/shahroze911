@@ -2,15 +2,14 @@
 <h3 align="center">Modern Full Stack Web Developer | App Developer</h3>
 <h3 align="left">Connect with me:</h3>
 <ul>
-  
-  <li> Email: 
-     <a href="sksahotra911@gmail.com" target="_blank" style="margin-bottom: 5px;">    
-    sksahotra911@gmail.com
-  </a>
-  </li>
   <li> Fiverr: 
      <a href="https://www.fiverr.com/shahrozesahotra?up_rollout=true" target="_blank" style="margin-bottom: 5px;">    
     shahrozesahotra
+  </a>
+  </li>  
+  <li> Email: 
+     <a href="sksahotra911@gmail.com" target="_blank" style="margin-bottom: 5px;">    
+    sksahotra911@gmail.com
   </a>
   </li>  
   <li> LinkedIn:
