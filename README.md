@@ -1,6 +1,6 @@
-# Hi there👋
-## I'm Shahroze Kamran Sahotra
-### Modern Full Stack Web Developer | Gen AI | Open AI Developer
+## Hi there👋
+#### I'm Shahroze Kamran Sahotra
+#### Modern Full Stack Web Developer | Gen AI | Open AI Developer
 
 
 
