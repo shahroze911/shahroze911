@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <ul>
-  <li>
+  <li> Shahroze Kamran Sahotra
      <a href="https://linkedin.com/in/shahroze.kamran.sahotra" target="blank" style="margin-bottom: 5px;">
    
   </a>
