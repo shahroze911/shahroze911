@@ -1,10 +1,7 @@
 <p>
-  - Hi there
-  -- I'm Shahroze Kamran Sahotra
-</br>
- <h3></h3> 
-</br>
-<h3>Modern Full Stack Developer | GenAI and Open AI Developer</h3> 
+  # Hi there👋
+## I'm Shahroze Kamran Sahotra
+### Modern Full Stack Web Developer | Gen AI | Open AI Developer
 
 </p>
 
