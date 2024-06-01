@@ -1,21 +1,5 @@
-
-<p>
-  <h1>
-Hi there👋    
-  </h1>
-<h2>
-I'm Shahroze Kamran Sahotra  
-</h2>
-<h3>
-Modern Full Stack Web Developer | Gen AI | Open AI Developer  
-</h3>
-
-  
-</p>
-  
-  
-
-
+<h2 align="left">Hi there,<br>I'm Shahroze Kamran Sahotra<br>Modern Full Stack Web Developer | Gen AI | Open AI Developer</h2>
+###
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li> Fiverr: 
