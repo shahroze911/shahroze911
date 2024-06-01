@@ -1,7 +1,12 @@
+
+<p>
 ## Hi there👋
 #### I'm Shahroze Kamran Sahotra
 #### Modern Full Stack Web Developer | Gen AI | Open AI Developer
-
+  
+</p>
+  
+  
 
 
 <h3 align="left">Connect with me:</h3>
