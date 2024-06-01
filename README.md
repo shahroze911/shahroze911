@@ -6,11 +6,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <ul>
+  
+  <li> Email: 
+     <a href="sksahotra911@gmail.com" target="_blank" style="margin-bottom: 5px;">    
+    sksahotra911@gmail.com
+  </a>
+  </li>
   <li> LinkedIn:
-     <a href="https://www.linkedin.com/in/shahroze-kamran-sahotra/" target="blank" style="margin-bottom: 5px;">    
+     <a href="https://www.linkedin.com/in/shahroze-kamran-sahotra/" target="_blank" style="margin-bottom: 5px;">    
     shahroze-kamran-sahotra
   </a>
   </li>
+  
 </ul>
 
 
