@@ -1,6 +1,12 @@
+<p>
+  Shahroze
+  Kamran Sahotra
+</br>
+Shahroze
+  Kamran Sahotra
+</p>
 <h2 align="left">Hi there</h2>
 </br>
-<h2 align="left">Hi there</h2>
 ###
 <h3 align="left">Connect with me:</h3>
 <ul>
