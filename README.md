@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahroze Kamran Sahotra</h1>
 <h3 align="center">Modern Full Stack Web Developer | App Developer</h3>
-
+🔭 Connect with me on Fiverr [Shahroze Kamran Sahotra](https://www.fiverr.com/shahrozesahotra?up_rollout=true)
 <h3 align="left">Connect with me:</h3>
 <ul>
   
@@ -10,7 +10,7 @@
   </a>
   </li>
   <li>  
-  🔭 Connect with me on Fiverr [Shahroze Kamran Sahotra](https://www.fiverr.com/shahrozesahotra?up_rollout=true)
+  
        
   </li>
   <li> LinkedIn:
