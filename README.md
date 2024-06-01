@@ -7,9 +7,8 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li> 
-     <a href="https://www.linkedin.com/in/shahroze-kamran-sahotra/" target="blank" style="margin-bottom: 5px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahroze Kamran Sahotra" height="30" width="40" />
-    Shahroze Kamran Sahotra
+     <a href="https://www.linkedin.com/in/shahroze-kamran-sahotra/" target="blank" style="margin-bottom: 5px;">    
+    Linkedin
   </a>
   </li>
 </ul>
