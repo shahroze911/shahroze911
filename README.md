@@ -1,5 +1,5 @@
-<h1 class="heading-element">Hi there 👋,</h1>
-<h2 class="markdown-heading">I'm Shahroze Kamran Sahotra</h2>
+<h1 align="left">Hi there👋</h1>
+<h2 align="left">I'm Shahroze Kamran Sahotra</h2>
 
 <h3 align="left">Modern Full Stack Web Developer | Gen AI | Open AI Developer</h3>  
 
