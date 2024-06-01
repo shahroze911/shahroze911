@@ -1,6 +1,7 @@
 <p>
 <h1 align="left">Hi there👋</h1>
-<h2 align="left">I'm Shahroze Kamran Sahotra | Modern Full Stack Web Developer | Gen AI and Open AI Developer</h2>
+<h2 align="left">I'm Shahroze Kamran Sahotra</h2>
+Modern Full Stack Web Developer | Gen AI and Open AI Developer
 </p>
 
 </br>
