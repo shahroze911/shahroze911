@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li> 
-     LinkedIn [shahroze-kamran-sahotra](https://www.linkedin.com/in/shahroze-kamran-sahotra)
+     LinkedIn [Shahroze La,ram Sajptra](https://www.linkedin.com/in/shahroze-kamran-sahotra?up_rollout=true)
    
   </a>
   </li>
