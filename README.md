@@ -1,9 +1,8 @@
 <p>
 <h1 align="left">Hi there👋</h1>
 <h2 align="left">I'm Shahroze Kamran Sahotra</h2>
-Modern Full Stack Web Developer | Gen AI and Open AI Developer
-  I'm a Full Stack Web & App Developer with over 4 years of hands-on experience. I'm passionate about creating websites & apps that not only work seamlessly but also stand out. My commitment is to deliver top-notch results, going the extra mile to exceed expectations & contribute to the success of your business.
-
+Modern Full Stack Web Developer | Gen AI and Open AI Developer </br>
+  I'm a Modern Full Stack Developer with over 4 years of hands-on experience. I'm passionate about creating websites & apps that not only work seamlessly but also stand out. My commitment is to deliver top-notch results, going the extra mile to exceed expectations & contribute to the success of your business.
 I specialize in optimizing IT solutions for peak efficiency. If you're looking for a creative and dedicated professional to add a touch of magic to your projects, ensuring both quality work and IT excellence, let's connect and explore exciting possibilities together!
 </p>
 
