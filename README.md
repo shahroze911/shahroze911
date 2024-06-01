@@ -1,11 +1,12 @@
 <p>
-  Shahroze
-  Kamran Sahotra
+  <h2 align="left">Hi there</h2>
 </br>
-Shahroze
-  Kamran Sahotra
+ <h3>I'm Shahroze Kamran Sahotra</h3> 
+</br>
+<h3>Modern Full Stack Developer | GenAI and Open AI Developer</h3> 
+
 </p>
-<h2 align="left">Hi there</h2>
+
 </br>
 ###
 <h3 align="left">Connect with me:</h3>
