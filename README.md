@@ -1,4 +1,6 @@
-<h2 align="left">Hi there,<br>I'm Shahroze Kamran Sahotra<br>Modern Full Stack Web Developer | Gen AI | Open AI Developer</h2>
+<h2 align="left">Hi there</h2>
+</br>
+<h2 align="left">Hi there</h2>
 ###
 <h3 align="left">Connect with me:</h3>
 <ul>
